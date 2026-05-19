@@ -53,3 +53,4 @@ After startup: http://localhost:8080/swagger-ui.html
 # Start PostgreSQL first, then:
 mvn spring-boot:run
 ```
+# User and Role entities added
