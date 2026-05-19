@@ -59,3 +59,4 @@ mvn spring-boot:run
 # Repositories added
 # Hotel repositories added
 # Booking repositories added
+# Request DTOs added
