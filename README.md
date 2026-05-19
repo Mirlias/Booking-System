@@ -54,3 +54,4 @@ After startup: http://localhost:8080/swagger-ui.html
 mvn spring-boot:run
 ```
 # User and Role entities added
+# Hotel and Room entities added
