@@ -64,3 +64,4 @@ mvn spring-boot:run
 # JWT util added
 # Security added
 # Filters added
+# Security config added
