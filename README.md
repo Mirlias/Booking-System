@@ -55,3 +55,4 @@ mvn spring-boot:run
 ```
 # User and Role entities added
 # Hotel and Room entities added
+# Booking and Review entities added
