@@ -57,3 +57,4 @@ mvn spring-boot:run
 # Hotel and Room entities added
 # Booking and Review entities added
 # Repositories added
+# Hotel repositories added
