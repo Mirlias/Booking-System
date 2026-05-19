@@ -70,3 +70,4 @@ mvn spring-boot:run
 # Mapper added
 # Auth service added
 # Hotel service added
+# File service added
