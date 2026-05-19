@@ -58,3 +58,4 @@ mvn spring-boot:run
 # Booking and Review entities added
 # Repositories added
 # Hotel repositories added
+# Booking repositories added
