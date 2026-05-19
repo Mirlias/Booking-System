@@ -66,3 +66,4 @@ mvn spring-boot:run
 # Filters added
 # Security config added
 # Swagger config added
+# Exceptions added
