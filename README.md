@@ -72,3 +72,4 @@ mvn spring-boot:run
 # Hotel service added
 # File service added
 # Booking service added
+# Auth controller added
