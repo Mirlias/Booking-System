@@ -68,3 +68,4 @@ mvn spring-boot:run
 # Swagger config added
 # Exceptions added
 # Mapper added
+# Auth service added
